@@ -1,1 +1,0 @@
-# X.X - Go Paperless
